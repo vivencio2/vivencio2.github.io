@@ -3,9 +3,4 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! Nothing here as of now.
-</p>
-
-
-Thanks for reading!
+Hello, I'm Jayr Añes. I'm a Senior .NET Software Engineer and this is my technical blog. 
