@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            vivencio2
+tagline:          'Developer's Thought Process'
+description:      'The Technical Journey'
+url:              https://vivenc.io
+baseurl:          /
+
+author:
+  name:           'Jayr Anes'
+  url:            https://twitter.com/vivencio2tweets
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/vivencio2
