@@ -261,6 +261,12 @@ tbody tr:nth-child(odd) th {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  text-align: center;
+}
+
+.profile {
+  border-radius: 50%;
+  margin: auto;
 }
 
 

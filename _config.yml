@@ -1,11 +1,11 @@
 # Dependencies
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 
 # Setup
 title:            vivencio2 
 tagline:          'Developers Thought Process'
-description:      'The Technical Journey'
+description:      'My Technical Journey'
 url:              "https://vivenc.io"
 baseurl:          /
 
