@@ -2,10 +2,6 @@
 markdown: redcarpet
 highlighter: pygments
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
 # Setup
 title:            vivencio2 
 tagline:          'Developers Thought Process'
